@@ -1,0 +1,26 @@
+{
+  "name": "node_book",
+  "version": "0.0.1",
+  "description": "책 보고 공부한다!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/100dami/No_Problem.git"
+  },
+  "author": "dami",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/100dami/No_Problem/issues"
+  },
+  "homepage": "https://github.com/100dami/No_Problem#readme",
+  "dependencies": {
+    "cookie-parser": "^1.4.5",
+    "express": "^4.17.1",
+    "express-session": "^1.17.2",
+    "morgan": "^1.10.0",
+    "pug": "^2.0.0-beta11"
+  }
+}
