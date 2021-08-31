@@ -17,5 +17,8 @@
     "mysql2": "^2.3.0",
     "nunjucks": "^3.2.0",
     "sequelize": "^4.42.0"
+  },
+  "devDependencies": {
+    "jest": "^27.1.0"
   }
 }
