@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "npx nodemon -e js,html server.js"
+    "start": "npx nodemon -e js,html server.js",
+    "test": "mocha"
   },
   "keywords": [],
   "author": "",
