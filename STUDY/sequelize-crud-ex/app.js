@@ -113,6 +113,12 @@ module.exports = {
     },
     addNumbers: function (a, b) {
         return a + b;
+    },
+    a: function () {
+        return 'A!';
+    },
+    b: function () {
+        return 'B!';
     }
 };
 
